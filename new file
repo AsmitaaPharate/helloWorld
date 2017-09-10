@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>JavaScript in Body</h2>
+
+<p id="demo" ></p>
+<p id="demo1"></p>
+
+<script>
+document.getElementById("demo").innerHTML = "My First JavaScript";
+document.getElementById("demo1").innerHTML = "do you like it ?";
+</script>
+
+</body>
+</html> 
